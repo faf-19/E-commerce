@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "e_commerce",
+			"path": "e_commerce"
+		},
+		{
+			"name": "readme image",
+			"path": "../E-commerce-Complete-Flutter-UI/readme image"
+		},
+		{
+			"name": "assets",
+			"path": "../E-commerce-Complete-Flutter-UI/assets"
+		}
+	],
+	"settings": {}
+}
